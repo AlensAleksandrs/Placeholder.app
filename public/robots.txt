@@ -1,0 +1,6 @@
+# Block all crawlers while the site is under development
+User-agent: *
+Disallow: /
+
+# Prevent indexing of the temporary landing page
+Noindex: /

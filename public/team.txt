@@ -1,0 +1,6 @@
+/* TEAM */
+Developer: SIA Rendezvous
+Website: https://rendezvous.lv
+
+/* SITE */
+Status: Under development
